@@ -1,3 +1,8 @@
+# Grupo:
+# Gabriel Palmeira Luchi
+# Lucas Mateus Gonçalves de Góes
+# Odair Apparecido Alves Neto
+
 import threading
 import random
 import time
